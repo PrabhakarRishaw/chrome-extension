@@ -3,9 +3,9 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Sandeep
+**NAME**: Rishaw Prabhakar
 
-**INTERN ID**: CT08DK915
+**INTERN ID**: CT08DK862
 
 
 
