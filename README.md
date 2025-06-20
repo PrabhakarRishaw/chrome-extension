@@ -23,8 +23,9 @@ In conclusion, this Chrome extension stands out as a sophisticated example of mo
 # OUTPUT OF THE TASK
 ## Screenshots
 
-![Screenshot 1](assets/chrome%20extension%20time%20tracking.png)
-![Screenshot 2](assets/chrome%20extension%20time%20tracking%201.png)
+![Screenshot 1](assests/chrome%20extension%20time%20tracking.png)
+
+![Screenshot 2](assests/chrome%20extension%20time%20tracking%201.png)
 
 =======
 # CHROME-EXTENSION-FOR-TIME-TRACKING
